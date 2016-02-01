@@ -1,6 +1,6 @@
 # Elastic List
 
-Swift and Objective-C: Bounce scroll animation in collection view
+Demo example of bounce scroll animation in a UICollectionView. 
 
 
 <br><br>
